@@ -1,7 +1,7 @@
 # The Progress Journal
 
 ## Final
-+ File. [Here](final_IH.html)
++ File. [Here](files/final_IH.html)
 
 ## Week 3 (Oct 24)
 
